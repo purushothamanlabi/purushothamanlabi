@@ -1,6 +1,13 @@
+
 ![logo](./img/banner2.png)
 
 
+<img src="https://github.com/purushothamanlabi/purushothamanlabi/blob/main/img/line.gif?raw=true" height="20" width="100%">
+<img src="https://github.com/purushothamanlabi/purushothamanlabi/blob/main/img/line.gif" height="20" width="100%">
+<img src="https://github.com/purushothamanlabi/purushothamanlabi/blob/main/img/line.gif" height="20" width="100%">
+<img src="https://github.com/purushothamanlabi/purushothamanlabi/blob/main/img/line.gif" height="20" width="100%">
+<img src="https://github.com/purushothamanlabi/purushothamanlabi/blob/main/img/line.gif" height="20" width="100%">
+<img src="https://github.com/purushothamanlabi/purushothamanlabi/blob/main/img/line.gif" height="20" width="100%">
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Welcome to my GitHub profile! 🚀</h1>
@@ -135,7 +142,7 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://github.com/purushothamanlabi/purushothamanlabi/blob/main/img/line.gif" height="20" width="100%">
 
 
 <!--x axis divider-->
