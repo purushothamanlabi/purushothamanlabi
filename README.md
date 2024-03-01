@@ -148,13 +148,15 @@ Hi, my name is Purushothaman, I'm a Full Stack Developer.
 
 
 <p align="center">
-<a href="https://github.com/purushothamanlabi"><img alt="purushothamanlabi Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=purushothamanlabi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/purushothamanlabi"><img alt="purushothamanlabi Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=purushothamanlabi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
 </p>
-
 
 <p align="center">
-<a href="https://github.com/purushothamanlabi"><img alt="purushothamanlabi Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=purushothamanlabi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/purushothamanlabi"><img alt="purushothamanlabi Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=purushothamanlabi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
 </p>
+
+
+
 
 
 <img src="https://github.com/purushothamanlabi/purushothamanlabi/blob/main/img/line.gif" height="20" width="100%">
